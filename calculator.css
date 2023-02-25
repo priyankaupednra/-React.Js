@@ -1,0 +1,17 @@
+.addd{
+    color: green;
+} 
+.sub{
+    color: red; 
+} 
+.div{
+    color: blue;
+} 
+.multi{
+    color: blueviolet;
+} 
+.bg-container{
+    background-color: #cbcbcb; 
+    width: 450px; 
+    height: 550px;
+}
