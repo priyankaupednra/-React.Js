@@ -1,0 +1,20 @@
+.divBlock ul{
+    display: flex; 
+    justify-content: space-between; 
+    justify-content: space-around; 
+    align-items: center;  
+    width: 300px; 
+
+} 
+.divBlock ul li a{
+    text-decoration: none;
+    color: white;
+} 
+.img{
+    width: 180px; 
+    height: 50px; 
+    padding: 20px;
+} 
+.backgroundColor{
+    background-color:orangered;
+}
