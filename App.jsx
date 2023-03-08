@@ -1,7 +1,13 @@
-import React from 'react' 
-const App = ()=> {
-    return (
-        <div>App</div>
-    )
-} 
-export default App
+import React from 'react'  
+import Nav from "./Nav.jsx" 
+import { Component } from 'react' 
+class App extends Component 
+{
+    render(){
+        return(
+            <Nav data = "hello"></Nav>
+        )
+    } 
+}
+
+export default App 
