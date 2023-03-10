@@ -1,0 +1,9 @@
+[
+    {
+        "studentName" : "sushma",
+        "courseName" : "mern stack", 
+        "degree"     : "M.tech",
+        "duration" : "6 months", 
+        "studentphoto":"https://i.pinimg.com/736x/ea/4c/7e/ea4c7e71fbcdc7d776e7163f337ec4fe--dora-the-explorer-cartoon-characters.jpg"
+    }
+]
