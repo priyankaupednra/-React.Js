@@ -1,13 +1,15 @@
 import React from 'react'  
-import Nav from "./Nav.jsx" 
-import { Component } from 'react' 
-class App extends Component 
-{
-    render(){
-        return(
-            <Nav data = "hello"></Nav>
-        )
-    } 
-}
+import JSON from "./Userdata.json"
+import  Course from './Course' 
+import "./course.css"
 
-export default App 
+const App = ()=>{
+    return(
+        <>
+        <div>
+            <Course payload = {JSON}/>
+        </div>
+        </>
+    )
+} 
+export default App ;
