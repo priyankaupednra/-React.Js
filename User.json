@@ -1,0 +1,38 @@
+[
+    {
+        "studentname" : "sushma",
+        "age" : 21 , 
+        "gender" : "female", 
+        "degree" :"B.tech", 
+        "branch" : "EEE"  ,
+        "yop" : 2022 , 
+        "studentphoto" : "https://i.pinimg.com/550x/36/44/00/3644001c2cf39d1514517e8586175e9b.jpg"
+    }
+]
+
+
+[
+
+    {
+        "studentname" : "divya",
+        "age" : 21 , 
+        "gender" : "female", 
+        "degree" :"B.tech", 
+        "branch" : "EEE"  ,
+        "yop" : 2022 ,  
+        "studentphoto" : "https://w7.pngwing.com/pngs/236/394/png-transparent-dora-the-explorer-swiper-boots-the-monkey-boot-child-accessories-cartoon.png"
+    }
+]  
+[
+    {
+        "studentname" : "sujatha",
+        "age" : 21 , 
+        "gender" : "female", 
+        "degree" :"B.tech", 
+        "branch" : "EEE"  ,
+        "yop" : 2022 , 
+        "studentphoto" : "https://e1.pxfuel.com/desktop-wallpaper/990/160/desktop-wallpaper-dora-overview-with-great-unique-dora-dora-buji.jpg"
+    }
+] 
+ 
+
