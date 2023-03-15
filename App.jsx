@@ -1,15 +1,20 @@
-import React from 'react'  
-import JSON from "./Userdata.json"
-import  Course from './Course' 
-import "./course.css"
+import React,{Component} from "react"; 
+import JSON  from  './User.json' 
+import Users from './Users.jsx' 
+export default class App extends Component {
 
-const App = ()=>{
+ constructor() {
+    super()  
+    this.state = {json:JSON}
+ }  
+ render(){
     return(
-        <>
         <div>
-            <Course payload = {JSON}/>
+            <Users data = {this.state.json}/>
         </div>
-        </>
     )
+ }
 } 
-export default App ;
+
+
+    
