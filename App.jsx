@@ -1,8 +1,8 @@
 import React from 'react'
-import Ref from './Ref.jsx'
+import Reference from './Reference';
 export const App = () => {
   return (
-    <Ref/>
+    <Reference/>
   )
 } 
 export default App
