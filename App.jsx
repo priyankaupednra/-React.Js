@@ -1,9 +1,9 @@
-import React from 'react'
-import Reference from './Reference';
+import React from 'react' 
+import { Formfunc } from './Formfunc'
 export const App = () => {
   return (
-    <Reference/>
+    <Formfunc/>
   )
-} 
+}
 export default App
 
